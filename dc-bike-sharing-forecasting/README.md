@@ -46,11 +46,6 @@ dc-bike-sharing-forecasting/
 ├── scatter_windspeed.html
 └── time_series_total_rides.html
 
-yaml
-Copy code
-
----
-
 ## 📊 Key Visualizations
 
 Interactive figures are available in the `figures/` folder:
@@ -70,14 +65,8 @@ Interactive figures are available in the `figures/` folder:
 ### 1️⃣ Install dependencies  
 pip install -r requirements.txt
 
-bash
-Copy code
-
 ### 2️⃣ Run the app  
 streamlit run app.py
-
-yaml
-Copy code
 
 This opens the interactive dashboard, where you can:
 
