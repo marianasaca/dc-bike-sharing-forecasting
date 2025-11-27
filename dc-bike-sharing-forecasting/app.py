@@ -360,4 +360,4 @@ st.markdown("""
 """)
 
 #to run: 1- pip install streamlit
-# 2 streamlit run Group6_StreamlitSrc_Assignment2.py     make sure you're in the right file path
+# 2 streamlit run app.py     make sure you're in the right file path
